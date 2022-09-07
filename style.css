@@ -160,6 +160,10 @@ form button:hover {
  transform: scale(1.1);
 }
 
+.modal h2 {
+    margin-bottom: 15px;
+}
+
 /* Alert Error */
 .alert-error.open {
     visibility: visible;
