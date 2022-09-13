@@ -1,5 +1,5 @@
 
-# IMC Component
+# Componente IMC
 
 Componente que calcula o IMC.
 
